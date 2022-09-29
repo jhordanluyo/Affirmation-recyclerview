@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 }
-
+/* resumer del tema */
 /*6. Resumen
 El widget de RecyclerView te ayuda a mostrar una lista de datos.
 RecyclerView usa el patrón del adaptador para adaptar y mostrar los datos.
