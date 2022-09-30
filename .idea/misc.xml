@@ -3,9 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Carpeta Compartida/Android/Affirmations/app/src/main/res/layout/activity_main.xml" value="0.35643115942028986" />
+        <entry key="..\:/Carpeta Compartida/Android/Affirmations/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Carpeta Compartida/Android/Affirmations/app/src/main/res/layout/item_list2.xml" value="0.15341880341880343" />
-        <entry key="..\:/Carpeta Compartida/Android/Affirmations/app/src/main/res/layout/list_item.xml" value="0.67" />
+        <entry key="..\:/Carpeta Compartida/Android/Affirmations/app/src/main/res/layout/list_item.xml" value="0.25" />
       </map>
     </option>
   </component>
