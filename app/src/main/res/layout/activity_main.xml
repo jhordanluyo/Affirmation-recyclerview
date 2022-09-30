@@ -10,6 +10,15 @@
         android:id="@+id/recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:scrollbars="vertical"
-        app:layoutManager="LinearLayoutManager" />
+        android:scrollbars="horizontal"
+        app:layoutManager="GridLayoutManager"
+        app:spanCount="3"
+        app:reverseLayout="false"
+        android:orientation="vertical"
+        />
+    <!--app:layoutManager="LinearLayoutManager"
+    tanto el grid como el linear tienes propiedad para poner horizontal
+    vertical y reverse lay out en true para comenzar de abajo hacia arriba
+-->
+
 </FrameLayout>

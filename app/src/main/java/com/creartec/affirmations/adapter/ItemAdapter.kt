@@ -28,8 +28,8 @@ class ItemAdapter(
 
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
         val item = dataset[position]
-        holder.textView.setText(item.stringResourceId)
-        //holder.textView.text = context.resources.getString(item.stringResourceId)
+        //holder.textView.setText(item.stringResourceId)
+        holder.textView.text = context.resources.getString(item.stringResourceId)
         /* puede usarse dos formas para presentar un elemento de la lista */
         holder.imageView.setImageResource(item.imageResourceId)
     }
